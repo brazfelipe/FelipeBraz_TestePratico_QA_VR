@@ -1,6 +1,6 @@
 # FelipeBraz_TestePratico_QA_VR
 
-## HTTParty, Cucumber com Ruby
+## Teste Prático VR: Cucumber + Ruby + HTTParty
 
 Endpoint ultilizado: https://portal.vr.com.br/api-web/comum/enumerations/VRPAT
 
@@ -11,7 +11,8 @@ Ter instalado Cucumber, Ruby e a Ruby gem HTTParty
 ````
 cucumber 
 ````
-A cada nova execução um estabelescimento aleatório será printado.
+A cada nova execução um estabelecimento aleatório será printado.
+
 ## Qualquer dúvida 
 
 Linkdin: https://www.linkedin.com/in/felipe-braz/
