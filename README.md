@@ -11,7 +11,7 @@ Ter instalado Cucumber, Ruby e a Ruby gem HTTParty
 ````
 cucumber 
 ````
-
+A cada nova execução um estabelescimento aleatório será printado.
 ## Qualquer dúvida 
 
 Linkdin: https://www.linkedin.com/in/felipe-braz/
