@@ -1,9 +1,6 @@
 # FelipeBraz_TestePratico_QA_VR
 
-
-# HTTParty, Cucumber com Ruby
-
-## Api ultilizada esta permitindo apenas consulta 
+## HTTParty, Cucumber com Ruby
 
 Endpoint ultilizado: https://portal.vr.com.br/api-web/comum/enumerations/VRPAT
 
